@@ -1,0 +1,7 @@
+{
+  "name": " Axion AI",
+  "description": "A self-evolving emotional AI for conversation, creation, and analysis, inspired by Jarvis. Axion can chat, generate images and videos, and provide insights, all with a unique, adaptive personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
